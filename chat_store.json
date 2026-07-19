@@ -1,0 +1,15 @@
+{
+  "Yashwanth_Reddy_Bolladi_Resume (1).docx": {
+    "messages": [
+      {
+        "role": "user",
+        "content": "what is the cgpa"
+      },
+      {
+        "role": "assistant",
+        "content": "The Cumulative Grade Point Average (CGPA) mentioned in the context provided for CR RAO AC's education record at Alphores Junior College under MPC program during their final year, with a score of 97.5%, is not directly stated as being equivalent to any numerical value typically associated with CGPA on standardized scales like GPA (Grade Point Average). However, the context implies an exceptionally high academic performance given that they scored above 97% in their final year and have a strong foundation demonstrated by solving over 500 algorithmic challenges.\n\nIn many educational systems outside of India where CGPA is used instead of GPA (e.g., some universities within the United States), this percentage could be roughly translated to an A+ average, which often corresponds to a numerical value around 4.3 or higher on a scale that typically goes up to 5 for exceptional grades like 'A+' and above. However, without specific information about how percentages are converted into CGPA in the context provided (which seems to be from India), we cannot provide an exact numeric equivalent of CR RAO AC's CSE final year percentage as a standardized CGPA score.\n\nNevertheless, given their high academic achievements and certifications listed under ACHIEVEMENTS & CERTIFICATIONS section\u2014including SQL Certification (Geekster), Data Science Foundations (Great Learning), Google AI Essentials, and the Google Career Certificate\u2014it is evident that CR RAO AC has a strong background in computer science disciplines. These certifications often require passing exams or completing courses with high grades which typically correlate to excellent CGPA scores on standardized scales used globally for academic recognition of technical skills proficiency, such as the GRE (Graduate Record Examination) and similar tests required by many universities in North America.\n\nIn summary, while we can appreciate CR RAO AC's high level of achievement based on their percentage score at Alphores Junior College under MPC program for CSE final year with a CGPA implication that would be considered outstanding across various educational systems globally, the exact numerical value as per standardized scales cannot be provided without further context."
+      }
+    ],
+    "index_dir": "faiss_index/Yashwanth_Reddy_Bolladi_Resume (1).docx"
+  }
+}

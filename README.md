@@ -125,7 +125,7 @@ Because of these dependencies, it is **not suitable for direct deployment** on p
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Anirudh-Kambampati/RAG-study-assistant.git
+git clone https://github.com/yashwanth-reddyy/rag-study-assistant.git
 cd RAG-study-assistant
 ````
 
